@@ -1,0 +1,27 @@
+# Core Data Handling
+pandas
+numpy
+
+# AI Orchestration & LLM Access
+langchain
+langchain-community
+openai
+ollama
+mistralai>=1.0.0
+
+# Vector Database (Storage for your CSV)
+chromadb
+pypdf2
+
+# AI Evaluation Frameworks
+deepeval
+ragas
+
+# Observability & Monitoring
+arize-phoenix
+langfuse
+
+# Development & Utilities
+python-dotenv
+pytest
+ipykernel
